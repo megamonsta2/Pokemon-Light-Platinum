@@ -1,34 +1,19 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[POKEMONTRAINER_Red]
+[POKEMONTRAINER_Male]
 Name = Pokémon Trainer
 Gender = Male
 BaseMoney = 60
 #-------------------------------
-[POKEMONTRAINER_Leaf]
+[POKEMONTRAINER_Female]
 Name = Pokémon Trainer
 Gender = Female
 BaseMoney = 60
 #-------------------------------
-[POKEMONTRAINER_Brendan]
-Name = Pokémon Trainer
-Gender = Male
-BaseMoney = 60
-#-------------------------------
-[POKEMONTRAINER_May]
-Name = Pokémon Trainer
-Gender = Female
-BaseMoney = 60
-#-------------------------------
-[RIVAL1]
+[RIVAL]
 Name = Rival
 Gender = Male
 BaseMoney = 16
-#-------------------------------
-[RIVAL2]
-Name = Rival
-Gender = Male
-BaseMoney = 36
 #-------------------------------
 [AROMALADY]
 Name = Aroma Lady
