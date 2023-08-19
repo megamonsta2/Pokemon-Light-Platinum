@@ -2,3 +2,18 @@
 #-------------------------------
 [001]   # Intro
 Name = Intro
+#-------------------------------
+[004]   # Dream
+Name = Dream
+#-------------------------------
+[002]   # Yellow Town
+Name = Yellow Town
+Outdoor = true
+ShowArea = true
+MapPosition = 0,4,15
+BattleBack = field
+#-------------------------------
+[003]   # Player's house
+Name = \PN's house
+#HealingSpot = 
+MapPosition = 0,4,15
